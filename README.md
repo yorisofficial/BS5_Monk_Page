@@ -1,3 +1,3 @@
 # monk.page
 
-Freepik Hero image
+Hero image download in Freepik
